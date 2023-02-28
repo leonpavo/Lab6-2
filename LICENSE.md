@@ -1,0 +1,1 @@
+We are deciding to use the MIT license. We want our program to be accessible and have limited restrictions on how people can use our code. This means that we believe people can use our code as a solid foundation to do great things. WIth this being said, we recognize that we will not make profit off of the sales of other’s projects using our code, but we are ok with that.
